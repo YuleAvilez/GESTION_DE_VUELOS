@@ -1,0 +1,22 @@
+.formulario-registro{
+    width: 500px;
+    height: 600px;
+    text-align: center;
+    background: #ffffff;
+    padding: 50px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    font-family: 'calibri';
+    color: rgb(0, 0, 0);
+    box-shadow: 7px 13px 37px #2d1e2a ;
+  }
+  
+  .input-container2{
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+  }

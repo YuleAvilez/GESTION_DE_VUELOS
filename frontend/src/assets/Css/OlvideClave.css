@@ -1,0 +1,42 @@
+
+
+.formulario-contraseña{
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    background: #ffffff;
+    padding: 50px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    font-family: 'calibri';
+    color: rgb(0, 0, 0);
+    box-shadow: 7px 13px 37px #2d1e2a ;
+  }
+
+  .contraseña{
+    
+      background-color: #fa0c0c;
+      color: rgb(255, 255, 255);
+      height: 50px;
+      border: 2px solid #000000;
+      border-radius: 6px;
+      border: none;
+      padding: 16px 32px;
+      text-align: center;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      -webkit-transition-duration: 0.4s; /* Safari */
+      transition-duration: 0.4s;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+  }
+  .contraseña:hover {
+      background-color: #fa0c0c;
+      color: rgb(255, 255, 255);
+  
+  
+  }
+  
